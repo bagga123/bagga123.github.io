@@ -1,2 +1,2 @@
 # rishib.me
-Resume
+Personal Profile
